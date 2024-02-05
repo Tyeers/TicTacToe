@@ -1,0 +1,11 @@
+D:\Kelas XI\PBT\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\Kelas XI\PBT\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\Kelas XI\PBT\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\Kelas XI\PBT\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
