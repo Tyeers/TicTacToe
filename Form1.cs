@@ -46,6 +46,7 @@ namespace Tic_Tac_Toe
             label1 = new Label();
             label1.Text = "00:00:00";
             label1.Location = new Point(151, 400);
+            label1.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold);
             Controls.Add(label1);
 
             ticTacToeGame = new TicTacToeGame(buttons, label1);
@@ -76,6 +77,14 @@ namespace Tic_Tac_Toe
         private void timer1_Tick(object sender, EventArgs e)
         {
             ticTacToeGame.timer1_tick();
+            if (ticTacToeGame.IsBoardFull() == true)
+            {
+                timer1.Stop();
+            };
+            if (ticTacToeGame.IsGameWon() == true)
+            {
+                timer1.Stop();
+            };
         }
     }
 }

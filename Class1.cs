@@ -66,7 +66,7 @@ namespace Tic_Tac_Toe
                     (buttons[0, i].Text == currentPlayer.ToString() && buttons[1, i].Text == currentPlayer.ToString() && buttons[2, i].Text == currentPlayer.ToString()) ||
                     (buttons[0, 0].Text == currentPlayer.ToString() && buttons[1, 1].Text == currentPlayer.ToString() && buttons[2, 2].Text == currentPlayer.ToString()) ||
                     (buttons[0, 2].Text == currentPlayer.ToString() && buttons[1, 1].Text == currentPlayer.ToString() && buttons[2, 0].Text == currentPlayer.ToString()))
-                {
+                {                  
                     return true;
                 }
             }
